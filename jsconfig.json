@@ -1,0 +1,6 @@
+// Just to let VSCode know I'm ok with ES6 and don't complain of using it 
+{
+    "compilerOptions": {
+        "target": "ES6"
+    }
+}
