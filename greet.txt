@@ -1,1 +1,3 @@
-Hello
+Hello, how are you ?
+This is just a text file to check !!
+See you Later !!!
